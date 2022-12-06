@@ -1,8 +1,8 @@
 # Praktikum 6
 
-Nama : NADYA KHAIRUNNISA
+Nama  : NADYA KHAIRUNNISA
 
-NIM : 312210133
+NIM   : 312210133
 
 Kelas : TI.22.A1
 
